@@ -1,0 +1,7 @@
+// Variables: Guardan información en un lugar donde luego se puede recuperar de alguna forma a través de su nombre y se le puede asignar valores.
+// Stings: Son palabras o hilo de letras y caracteres. Siempre empiezan y terminan con comillas.
+// Funciones: Agrupan codigos, los guarda y los ejecuta una o mas veces. Pueden o no, tener parámetros.
+// Argumentos: Es como declarar una variable. Y se le da valor cuando se invoca a la función, con el nombre de la función entre paréntesis.
+// Return: Cuando deseo devovler una respuesta o resultado específico dependiendo de las variables.
+// Declaraciones: Se usaran a travéz de controles de flujo y operadores de comparación cuando quiero verificar si una respuesta es true o false.
+// Valores Booleanos: Existen dos, true o false. Se utilizan para significar valores verdaderos o falsos.

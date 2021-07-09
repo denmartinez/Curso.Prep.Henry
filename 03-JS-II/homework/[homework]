@@ -1,0 +1,14 @@
+FOR: La mayoría del software se ejecuta en bucles, que se pueden clasificar en determinados o indeterminados.
+Estos evaluan expresiones hasta obtener el resultado que se busca o hasta que se detiene.
+El bucle for es un bucle determinado ya que hay q especificar cuantas vueltas va a dar durante su ejecución.
+Se compone de tres partes, primero se determina una variable, especificar el número de vueltas que va a dar,
+y se necesita un incremento o decremento. ++ / --
+
+OPERADORES LOGICOS
+&& (AND) evaluará dos elementos y devovlerá TRUE, siempre y cuando ambos elementos sean verdaderos,
+si uno de ellos o ambos es falso, devolverá FALSE.
+
+|| (OR) evaluará si una o ambas expresiones son verdaderas y devolverá un TRUE siempre y cuando una o ambas sean verdaderas.
+Sino devolverá un FALSE
+
+! (NOT) devolverá el valor booleano opuesto de lo que se le pase.
